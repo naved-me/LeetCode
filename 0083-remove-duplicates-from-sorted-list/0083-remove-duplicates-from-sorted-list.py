@@ -7,3 +7,4 @@ class Solution:
             else:
                 curr=curr.next
         return head
+     

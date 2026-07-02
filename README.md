@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/naved-me/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/naved-me/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
@@ -38,10 +39,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/naved-me/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/naved-me/LeetCode/tree/master/0009-palindrome-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/naved-me/LeetCode/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naved-me/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/naved-me/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

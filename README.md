@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/naved-me/LeetCode/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naved-me/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naved-me/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naved-me/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->

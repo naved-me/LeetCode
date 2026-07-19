@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naved-me/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/naved-me/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/naved-me/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/naved-me/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/naved-me/LeetCode/tree/master/0087-scramble-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/naved-me/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/naved-me/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/naved-me/LeetCode/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/naved-me/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
 |  |

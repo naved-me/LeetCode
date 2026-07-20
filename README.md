@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/naved-me/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/naved-me/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/naved-me/LeetCode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/naved-me/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/naved-me/LeetCode/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naved-me/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/naved-me/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/naved-me/LeetCode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/naved-me/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naved-me/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/naved-me/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/naved-me/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/naved-me/LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/naved-me/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/naved-me/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/naved-me/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/naved-me/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/naved-me/LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naved-me/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/naved-me/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/naved-me/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

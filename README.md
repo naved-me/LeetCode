@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/naved-me/LeetCode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
+| [0162-find-peak-element](https://github.com/naved-me/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/naved-me/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/naved-me/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/naved-me/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naved-me/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/naved-me/LeetCode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |

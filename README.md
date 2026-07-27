@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/naved-me/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/naved-me/LeetCode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/naved-me/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
@@ -168,9 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/naved-me/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/naved-me/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/naved-me/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

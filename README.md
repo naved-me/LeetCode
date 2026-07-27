@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naved-me/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naved-me/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/naved-me/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/naved-me/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/naved-me/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/naved-me/LeetCode/tree/master/0076-minimum-window-substring) |

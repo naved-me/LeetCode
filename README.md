@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/naved-me/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/naved-me/LeetCode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/naved-me/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/naved-me/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/naved-me/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/naved-me/LeetCode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/naved-me/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/naved-me/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/naved-me/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
 |  |

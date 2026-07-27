@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/naved-me/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/naved-me/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/naved-me/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/naved-me/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/naved-me/LeetCode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/naved-me/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naved-me/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/naved-me/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/naved-me/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 ## Trie

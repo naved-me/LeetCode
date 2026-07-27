@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/naved-me/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/naved-me/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/naved-me/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/naved-me/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/naved-me/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/naved-me/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/naved-me/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/naved-me/LeetCode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/naved-me/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/naved-me/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naved-me/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -165,4 +168,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/naved-me/LeetCode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

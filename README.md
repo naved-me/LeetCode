@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/naved-me/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/naved-me/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/naved-me/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/naved-me/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/naved-me/LeetCode/tree/master/0031-next-permutation) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/naved-me/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/naved-me/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/naved-me/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/naved-me/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naved-me/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/naved-me/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naved-me/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/naved-me/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |

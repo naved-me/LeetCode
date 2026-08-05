@@ -8,7 +8,7 @@ class Solution:
                 count[0] += 1
             elif j == 1 :
                 count[1] += 1
-            elif j == 2 :
+            else:
                 count[2] += 1
         nums[:] = [0] * count[0] + [1] * count[1] + [2] * count[2] 
         return nums

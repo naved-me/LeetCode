@@ -1,15 +1,20 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         left = 0
-        window_count = {} # consider a freq map 
         res = 0
+        max_f = 0
+        count = {}
+        for right in range (len(s)):
+            char = s[right]
+            if char not in count:
+                count[char] = 1
+            else:
+                count[char] += 1
 
-        for right in range(len(s)):
-            window_count[s[right]] = window_count.get(s[right], 0) + 1
-            # while current wondow size - maxFreq > k remove left element and move left by one index
-            while (right - left + 1) - max(window_count.values()) > k:
-                window_count[s[left]] -= 1
+            if count[char] > max_f:
+                max_f = count[char]
+            if right - left + 1 - max_f > k:
+                count[s[left]] -= 1
                 left += 1
-            # compute max window size    
-            res = max(right - left + 1, res)
+            res = max(res, right - left + 1)
         return res

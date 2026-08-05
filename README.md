@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/naved-me/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/naved-me/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naved-me/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/naved-me/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/naved-me/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naved-me/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/naved-me/LeetCode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/naved-me/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/naved-me/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/naved-me/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/naved-me/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/naved-me/LeetCode/tree/master/3731-find-missing-elements) |
@@ -209,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/naved-me/LeetCode/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

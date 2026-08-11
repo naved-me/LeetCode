@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/naved-me/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/naved-me/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/naved-me/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/naved-me/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/naved-me/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/naved-me/LeetCode/tree/master/0039-combination-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/naved-me/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/naved-me/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/naved-me/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/naved-me/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naved-me/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |

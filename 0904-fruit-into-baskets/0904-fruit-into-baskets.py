@@ -5,7 +5,7 @@ class Solution:
         left , res = 0, 0
         for right in range (len(fruits)):
             count[fruits[right]] += 1
-            while len(count) > 2 :
+            if len(count) > 2 :
                 count[fruits[left]] -= 1
                 if count[fruits[left]]==0:
                     del count[fruits[left]]

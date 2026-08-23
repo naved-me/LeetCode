@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/naved-me/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naved-me/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/naved-me/LeetCode/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/naved-me/LeetCode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/naved-me/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/naved-me/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/naved-me/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naved-me/LeetCode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/naved-me/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/naved-me/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/naved-me/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naved-me/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/naved-me/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/naved-me/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/naved-me/LeetCode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/naved-me/LeetCode/tree/master/0140-word-break-ii) |
 ## Trie

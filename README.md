@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/naved-me/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/naved-me/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/naved-me/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/naved-me/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/naved-me/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/naved-me/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naved-me/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/naved-me/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/naved-me/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/naved-me/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/naved-me/LeetCode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/naved-me/LeetCode/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/naved-me/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
